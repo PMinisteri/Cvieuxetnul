@@ -2,5 +2,11 @@
 	"FileVersion": 3,
 	"EngineAssociation": "{92678613-4997-5417-6390-B68CEF1ACBAF}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		}
+	]
 }
